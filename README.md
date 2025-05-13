@@ -1,6 +1,6 @@
-# AWS Terminal Copilot with Mistral LLM
+# AWS Terminal Copilot with Mstral LLM
 
-This project is a command-line interface (CLI) tool built using Python and AWS services, designed to interact with AWS resources in a terminal environment. The tool integrates **Mistral LLM** (Large Language Model) to provide intelligent suggestions and help automate common tasks in AWS.
+This project is a command-line interface (CLI) tool built using Python and AWS services, designed to interact with AWS resources in a terminal environment. The tool integrates **Mstral LLM** (Large Language Model) to provide intelligent suggestions and help automate common tasks in AWS.
 
 The main objective of this project is to allow users to interact with AWS services via simple commands, without needing to manually run complex AWS CLI commands. It can list EC2 instances, S3 buckets, IAM users, and more. This project can be a powerful tool for AWS developers, system administrators, and anyone looking to quickly interact with AWS resources through an easy-to-use CLI.
 
